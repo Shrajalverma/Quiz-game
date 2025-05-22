@@ -10,7 +10,7 @@
 <!--Technologies/Frameworks-->
 <h2>Technologies Frameworks</h2>
 <ul>
-  <li><b>JDK 18+ - Java Version</b></li>
+  <li><b>JDK 23 - Java Version</b></li>
   <li><b>JDK & IDE setup</b></li> 
   <li><b> MySQL table</b></li>
   <li><b>jdbc for database connectivity</b></li>
